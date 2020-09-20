@@ -7,7 +7,7 @@ namespace Course
     {
         static void Main (string[] args)
         {
-            
+            System.Console.WriteLine("Teste");
         }
     }
 }
